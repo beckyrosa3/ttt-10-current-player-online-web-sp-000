@@ -1,9 +1,9 @@
 def turn_count(board)
-  counter = 0
+  turn_count = 0
   board.each do |board|
 
   if board == " "
-  counter += 1
+  turn_count += 1
 
 else
   break
