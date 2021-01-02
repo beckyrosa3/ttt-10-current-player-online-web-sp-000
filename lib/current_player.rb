@@ -4,7 +4,7 @@ def turn_count(board)
   board.each do |board|
   counter += 1
   
-  if board == %2
+  if board == % 2
     O
   else
     X
