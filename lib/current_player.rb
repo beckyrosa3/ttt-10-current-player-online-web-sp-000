@@ -1,7 +1,7 @@
 def turn_count(board)
   counter = 0
   turn_count.each do|turn|
-  while counter <= 9.length-1
+  
   puts "#{turn_count[counter]}"
     counter += 1
 
