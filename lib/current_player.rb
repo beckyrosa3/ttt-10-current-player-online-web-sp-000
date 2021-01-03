@@ -1,9 +1,4 @@
 def turn_count(board)
-  counter = 0
-  turn_count.each do|turn|
+9 -  board.count("  ")
 
-  puts "#{counter}"
-    counter += 1
-
-  end
 end
