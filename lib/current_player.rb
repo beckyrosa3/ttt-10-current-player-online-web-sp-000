@@ -1,6 +1,6 @@
 def turn_count(board)
-  counter = 1
-  while turn_count <= 0
+  counter = 0
+  while counter <= 9
     counter += 1
 
   end
