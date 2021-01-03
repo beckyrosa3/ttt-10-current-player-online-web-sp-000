@@ -5,8 +5,7 @@ def turn_count(board)
   if board == " "
   turn_count += 1
 
-else
-  break
+
 
   end
 end
