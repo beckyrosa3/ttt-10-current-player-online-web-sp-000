@@ -1,8 +1,8 @@
 def turn_count(board)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  turn_count = 0
+  counter = 0
   while turn_count <= 0
-    turn_count += 1
+    counter += 1
 
   end
 end
